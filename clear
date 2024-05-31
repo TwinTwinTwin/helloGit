@@ -1,0 +1,67 @@
+[33mcommit 37014be62832231005bdafc2d1d7f3fa4256da68[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mlogin[m[33m)[m
+Merge: 8d23f58 49413a9
+Author: Albert <Albert@gmail.com>
+Date:   Fri May 31 18:09:21 2024 +0200
+
+    correcion conflicto
+
+[33mcommit 49413a9f1753b5f4eab154cffb93da37d320c5e7[m[33m ([m[1;32mmain[m[33m)[m
+Author: Albert <Albert@gmail.com>
+Date:   Fri May 31 18:04:03 2024 +0200
+
+    git 3 v3
+
+[33mcommit 8d23f5866c8f403f11126a2dbfb0a518d1f73bac[m
+Author: Albert <Albert@gmail.com>
+Date:   Fri May 31 18:02:47 2024 +0200
+
+    git3 login
+
+[33mcommit c30954da082e989048010fd58fa005e5823a2c7c[m
+Merge: 7de47c4 87e4a57
+Author: Albert <Albert@gmail.com>
+Date:   Fri May 31 17:57:33 2024 +0200
+
+    Merge branch 'main' into login
+
+[33mcommit 87e4a5726bf10c121dcad11d5f7781c6db1f9aec[m
+Author: Albert <Albert@gmail.com>
+Date:   Fri May 31 17:55:11 2024 +0200
+
+    git 3 v2
+
+[33mcommit 7de47c4481140dbac8deb154edb0c39b61cc32c0[m
+Author: Albert <Albert@gmail.com>
+Date:   Fri May 31 17:52:03 2024 +0200
+
+    Login
+
+[33mcommit 7ad938b06ebf6ee48f2e2e7c6483d94f710b589d[m
+Author: Albert <Albert@gmail.com>
+Date:   Fri May 31 17:43:54 2024 +0200
+
+    Este es mi quinto commit
+
+[33mcommit cd0a5b7f0f2ac0067a0dbf0d5be2f3c2b9343aa1[m[33m ([m[1;33mtag: [m[1;33mclase1[m[33m)[m
+Author: Albert <Albert@gmail.com>
+Date:   Fri May 31 17:15:23 2024 +0200
+
+    Se añade el ignore
+
+[33mcommit b455735cff8965fc8b4a66417134ddb7abaebe0e[m
+Author: Albert <Albert@gmail.com>
+Date:   Fri May 31 17:09:56 2024 +0200
+
+    Texto actualizado
+
+[33mcommit 0193b9bcbd4cf9be15200db01101532006d5b34d[m
+Author: Albert <Albert@gmail.com>
+Date:   Fri May 31 17:04:55 2024 +0200
+
+    Este es mi segundo commit
+
+[33mcommit 718da6592ba11389ce3d5090c3fc85f04c374329[m
+Author: Albert <Albert@gmail.com>
+Date:   Fri May 31 16:57:30 2024 +0200
+
+    Este es mi primer commit
